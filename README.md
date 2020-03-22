@@ -10,7 +10,3 @@ You can
 
 ```markdown
 Syntax highlighted code block
-
-
-- Bulleted
-- List
