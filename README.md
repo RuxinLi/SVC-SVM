@@ -3,7 +3,7 @@
 You can 
 
 # SVM
-## - [Lab Walkthrough]()
+## - [Lab Walkthrough](labwalkthrough/index.html)
 ## - [Exercise Walkthrough]()
 ## - [Code for Lab] ()
 ## - [Code for Exercise] ()
