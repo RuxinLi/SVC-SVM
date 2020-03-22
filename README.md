@@ -3,7 +3,8 @@
 You can 
 
 # SVM
-## - [Lab Walkthrough](https://guides.github.com/features/mastering-markdown/)
+## - [Lab Walkthrough]()
+## - [Exercise Walkthrough]()
 ## - [Code for Lab] ()
 ## - [Code for Exercise] ()
 
