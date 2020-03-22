@@ -7,14 +7,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # SVM
 ## - [Lab Walkthrough](https://guides.github.com/features/mastering-markdown/)
 ## - [Code for Lab] ()
 ## - [Code for Exercise] ()
+
+```markdown
+Syntax highlighted code block
+
 
 - Bulleted
 - List
