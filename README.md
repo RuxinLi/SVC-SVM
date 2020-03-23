@@ -1,10 +1,7 @@
 ## Shiva Duddupudi, Kurt Doyle, Ruxin Li, Wade Strain
-
-
-  # SVM
- 
- 
-
+<br />
+<br />
+# SVM
 ## - [Lab Walkthrough](https://ruxinli.github.io/ML-TP-T8/labwalkthrough)
 ## - [Exercise Walkthrough](https://ruxinli.github.io/ML-TP-T8/exercisewalkthrough)
 ## - [Code for Lab](https://ruxinli.github.io/ML-TP-T8/labcode)
