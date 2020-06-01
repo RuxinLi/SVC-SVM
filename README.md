@@ -1,9 +1,9 @@
 <br/>
 # SVM
-## - [Lab Walkthrough](https://ruxinli.github.io/ML2-TP1-Team8/labwalkthrough)
-## - [Exercise Walkthrough](https://ruxinli.github.io/ML2-TP1-Team8/exercisewalkthrough)
-## - [Code for Lab](https://ruxinli.github.io/ML2-TP1-Team8/labcode)
-## - [Code for Exercise](https://ruxinli.github.io/ML2-TP1-Team8/exercisecode)
+## - [Lab Walkthrough](https://ruxinli.github.io/SVC-SVM/labwalkthrough)
+## - [Exercise Walkthrough](https://ruxinli.github.io/SVC-SVM/exercisewalkthrough)
+## - [Code for Lab](https://ruxinli.github.io/SVC-SVM/labcode)
+## - [Code for Exercise](https://ruxinli.github.io/SVC-SVM/exercisecode)
 <br/>
 <br/>
 <br/>
